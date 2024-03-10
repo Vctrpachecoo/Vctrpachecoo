@@ -15,5 +15,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://devicons.dev.br/icons?icon=Github&theme=dark">
+</div> 
+<br>
+
+<div> 
+  <a href="https://www.linkedin.com/in/victor-pacheco-457897272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
   
