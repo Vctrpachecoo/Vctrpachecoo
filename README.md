@@ -1,6 +1,6 @@
 ### Olá, me chamo Victor! 
-📚: Atualmente estou cursando SI (Sistemas de Informação) <br>
-🎯: Meu objetivo atual é entrar para o mercado de tecnologia e melhorar cada vez mais como desenvolvedor. 
+Com 20 anos de idade, minha jornada profissional sempre esteve imersa na tecnologia, desde experiências acadêmicas, profissionais e até projetos pessoais. Atualmente estou buscando a minha primeira oportunidade na área e venho deixar aqui, alguns dos meus projetos nessa fase de apreendizado.  <br>
+  Cursando 📘: Sistemas de Informação.
 <br>
 ## Skils 
 
